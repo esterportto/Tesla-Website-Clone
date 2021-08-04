@@ -3,7 +3,7 @@
 Este site foi realizado para colocar em prática e aprender mais sobre ReactJS, e é uma inspiração do site da Tesla e do projeto do Priyadarshan2000. 
 
 Fonte original: Priyadarshan2000 
-o link desse projeto é do original feito pelo Priyadarshan2000. 
+o link desse projeto é do original. 
 
 
 
