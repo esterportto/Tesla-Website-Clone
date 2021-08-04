@@ -1,6 +1,6 @@
 # Clone do site Tesla
 
-Este é o site tesla Clone feito em React
+Este site foi realizado para colocar em prática e aprender mais sobre ReactJS, e é uma inspiração do site da Tesla. 
 
 Fonte de inspiração: Priyadarshan2000 
 
