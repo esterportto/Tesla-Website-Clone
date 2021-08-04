@@ -1,8 +1,11 @@
 # Clone do site Tesla
 
-Este site foi realizado para colocar em prática e aprender mais sobre ReactJS, e é uma inspiração do site da Tesla. 
+Este site foi realizado para colocar em prática e aprender mais sobre ReactJS, e é uma inspiração do site da Tesla e do projeto do Priyadarshan2000. 
 
-Fonte de inspiração: Priyadarshan2000 
+Fonte original: Priyadarshan2000 
+o link desse projeto é do original feito pelo Priyadarshan2000. 
+
+
 
 # Landing Page
 ![image](https://user-images.githubusercontent.com/61336911/128104192-0776007c-0b98-4c98-8891-6d004a09192a.png)
